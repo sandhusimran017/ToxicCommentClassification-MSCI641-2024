@@ -1,4 +1,6 @@
-Toxic-Comment-Classification
+**Toxic-Comment-Classification**
+
+
 -In this paper, we established several machine learning methods for the classification of toxic comments based on the Jigsaw data set. Effective models that returned their optimal performance in terms of accuracy, precision, recall, F1 score, and AUC-ROC have been quantified.
 
 -We compared the performance of traditional methods, including Multinomial Naive Bayes(MNB), with more advanced deep learning techniques: Long Short term Memory Networks(LSTMs), BERT, and RoBERTa.
